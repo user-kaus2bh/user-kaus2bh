@@ -209,7 +209,7 @@ Then go to **Actions → GitHub-Profile-3D-Contrib → Run workflow** once to ge
 ```
 
 [![GitHub](https://img.shields.io/badge/◈_github-user--kaus2bh-0d0d14?style=for-the-badge&logo=github&logoColor=c8b8ff&labelColor=0d0d14)](https://github.com/user-kaus2bh)
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0d0d0d,1a1a2e,2a1a3e&height=120&section=footer&animation=fadeIn" width="100%"/>
+[![LeetCode](https://img.shields.io/badge/◈_leetcode-Kaustubh--Mishra-0d0d14?style=for-the-badge&logo=leetcode&logoColor=ffcf77&labelColor=0d0d14)](https://leetcode.com/u/Kaustubh-Mishra/)
+[![Email](https://img.shields.io/badge/◈_mail-kaustubhcode26-0d0d14?style=for-the-badge&logo=gmail&logoColor=ff8fa3&labelColor=0d0d14)](mailto:kaustubhcode26@gmail.com)
 
 </div>
