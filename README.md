@@ -10,7 +10,7 @@
 <!-- Art - full width cinematic -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/user-kaus2bh/user-kaus2bh/main/wallpaperflare_com_wallpaper__5_.jpg" width="100%" style="max-width:860px; border-radius:16px; display:block; margin:0 auto;"/>
+<img src="wallpaperflare.com_wallpaper (5).jpg" width="100%" style="max-width:860px; border-radius:16px; display:block; margin:0 auto;"/>
 
 </div>
 
