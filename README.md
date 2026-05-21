@@ -32,7 +32,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C8B8FF&center=true&vCenter=true&width=600&lines=hey+there%2C+I'm+kaus2bh+%F0%9F%A6%85;I+build+things+with+data+%26+AI;LLMs+%7C+RAG+%7C+NLP+%7C+Pipelines;always+learning%2C+rarely+sleeping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=C8B8FF&center=true&vCenter=true&width=700&lines=i+turn+raw+data+into+dark+magic+%F0%9F%A6%85;models+that+think%2C+pipelines+that+breathe;i+don't+break+things+—+i+stress+test+them;somewhere+between+genius+and+sleep+deprived;the+data+doesn't+lie.+i+just+make+it+talk.)](https://git.io/typing-svg)
 
 </div>
 
