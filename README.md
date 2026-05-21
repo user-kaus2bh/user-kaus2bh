@@ -140,43 +140,6 @@
 
 </div>
 
-<details>
-<summary><code>▸ how to set up the 3D graph (click)</code></summary>
-
-<br/>
-
-Create `.github/workflows/profile-3d.yml` in your profile repo:
-
-```yaml
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
-          git add -A .
-          git commit -m "generate 3d contrib" || true
-          git push
-```
-
-Then go to **Actions → GitHub-Profile-3D-Contrib → Run workflow** once to generate it!
-
-</details>
 
 <br/>
 
