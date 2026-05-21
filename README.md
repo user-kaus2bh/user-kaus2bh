@@ -110,9 +110,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=user-kaus2bh&show_icons=true&theme=tokyonight&bg_color=0d0d14&border_color=c8b8ff&title_color=c8b8ff&icon_color=ffcf77&text_color=a89ec9&ring_color=c8b8ff&hide_border=false&count_private=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=user-kaus2bh&theme=tokyonight" width="100%"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-kaus2bh&layout=compact&theme=tokyonight&bg_color=0d0d14&border_color=c8b8ff&title_color=c8b8ff&text_color=a89ec9" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=user-kaus2bh&theme=tokyonight" height="170"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=user-kaus2bh&theme=tokyonight" height="170"/>
 
 </div>
 
