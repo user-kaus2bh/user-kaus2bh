@@ -128,7 +128,7 @@
 
 <br/>
 
-## ◈ 3d commit map
+## ◈  commit map
 
 <div align="center">
 
@@ -136,7 +136,7 @@
 
 <br/>
 
-[![3D Commit History](https://raw.githubusercontent.com/user-kaus2bh/user-kaus2bh/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/user-kaus2bh)
+[![ Commit History](https://raw.githubusercontent.com/user-kaus2bh/user-kaus2bh/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/user-kaus2bh)
 
 </div>
 
